@@ -1,0 +1,56 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#logo{
+    width: 200px;
+}
+#background-color{
+    background-color: #F0FFF0;
+}
+.catagory{
+    box-shadow: lightgray 10px 10px 40px;
+    background-color: #f0fff0;
+    border-radius: 10px;
+}
+.catagory>img{
+    width: 80px;
+}
+.title{
+    text-align: center;
+}
+.date-seat>img{
+    width: 25px;
+}
+.testimonial-img{
+    width: 120px;
+}
+.testimonial-text{
+    text-align: left;
+}
+.footer-part{
+    color: white;
+    background-color: #2C2A34;
+}
+.card{
+    border-radius: 20px;
+    box-shadow: lightgray 10px 10px 40px;
+}
+.card-img-top{
+    margin: 5% 5% 5% 5%;
+    width: 90%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    padding: 0;
+    list-style: none;
+}
+button{
+    color: white;
+    background-color: #2EB376;
+}
+#highlight-green{
+    color: #2EB376;
+}
